@@ -1,3 +1,14 @@
+# Virtual Env Python 3
+
+Activer l'environnement Python 3
+```
+source venv/bin/activate
+```
+
+Desactiver
+
+deactivate
+
 # Processing
 
 1. Audio Processing includes Acoustic Echo Cancellation (AEC), Beamforming, Noise Suppression (NS), etc.
