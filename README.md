@@ -2,7 +2,8 @@
 
 Activer l'environnement Python 3
 ```
-source venv/bin/activate
+$ cd mycroft-precise/
+source .venv/bin/activate
 ```
 
 Desactiver
